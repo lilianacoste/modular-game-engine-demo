@@ -1,3 +1,11 @@
+"""
+Window management system for a modular desktop-style application.
+
+Coordinates stacked application windows, non-blocking overlays,
+and centralized event routing. Extracted from a larger proprietary
+project for portfolio demonstration purposes.
+"""
+
 import pygame
 
 class WindowManager:
