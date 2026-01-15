@@ -5,7 +5,6 @@ Coordinates stacked application windows, non-blocking overlays,
 and centralized event routing. Extracted from a larger proprietary
 project for portfolio demonstration purposes.
 """
-# placeholder for window_manager.py
 # =========================================
 # file: src/core/window_manager.py
 # =========================================
